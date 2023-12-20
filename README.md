@@ -35,3 +35,6 @@ This project uses the following libraries:
 
 - Streamlit: [Link](https://streamlit.io/)
 - LangChain: [Link](https://github.com/yourgithubusername/langchain)
+![image](https://github.com/Priyadarshini-G/LLM-NLP-Project/assets/125633952/0e3e7cb3-cece-4169-b4b0-16a03c37aeff)
+![image](https://github.com/Priyadarshini-G/LLM-NLP-Project/assets/125633952/bc20b05d-9aa4-4059-ac8d-26d17f747682)
+![image](https://github.com/Priyadarshini-G/LLM-NLP-Project/assets/125633952/7daf794c-4bbe-4335-b4e9-6760c2d32afc)
